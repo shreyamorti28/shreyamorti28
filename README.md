@@ -3,7 +3,7 @@
 <h2>👨‍💻 Python Projects:</h2>
 
 - <b>Python Practice</b>
-  - [Praciting Python](https://github.com/shreyamorti28/python_project)
+  - [Rock Paper scissor Game](https://github.com/shreyamorti28/python_project)
 
 <h2> 🤳 Connect with me:</h2>
 [email]:https://www.shreyamorti@gmail.com
