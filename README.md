@@ -1,4 +1,4 @@
-<h1>Hi, I'm Shreya Morti! <br/><a href="https://github.com/shreyamorti28">Programmer</a>, <a href="https://github.com/shreyamorti28">Cybersecurity Professional</a>
+<h1>Hi, I'm Shreya Morti! <br/><a href="https://github.com/shreyamorti28">Programmer</a>, <a href="https://github.com/shreyamorti28">Web Developer</a>
 
 <h2>👨‍💻 Python Projects:</h2>
 
