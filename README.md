@@ -1,10 +1,5 @@
 <h1>Hi, I'm Shreya Morti! <br/><a href="https://github.com/shreyamorti28">Programmer</a>, <a href="https://github.com/shreyamorti28">Web Developer</a>
 
-<h2>👨‍💻 Python Projects:</h2>
-
-- <b>Python Practice</b>
-  - [Rock Paper scissor Game](https://github.com/shreyamorti28/python_project)
-
 <h2> 🤳 Connect with me:</h2>
 [email]:https://www.shreyamorti@gmail.com
 [instagram]: https://www.instagram.com/shreyamorti28/
