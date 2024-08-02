@@ -5,6 +5,5 @@
 [instagram]: https://www.instagram.com/shreyamorti28/
 [linkedin]: https://linkedin.com/in/shreyamorti28
 
-- 🌱 I’m currently learning about cloud security
-- 👯 I’m looking to collaborate on any intersting projects
+- 👯 I’m Open to collaborate on any intersting projects
   
