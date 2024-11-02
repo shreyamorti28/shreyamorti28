@@ -7,14 +7,9 @@
 - [LinkedIn](https://linkedin.com/in/shreyamorti28)
 
 ## Currently Working on
-### E-commerce Website (MERN Stack)
-**Technologies:** MongoDB, Express.js, React, Node.js  
-**Description:** Developing a full-fledged e-commerce platform with features including user authentication, product listings, shopping cart, order management, and payment gateway integration.  
-**Link:** [GitHub Repository](https://github.com/shreyamorti28/Ecommerce.git)
-
-### Portfolio Website (HTML, CSS, JavaScript)
-**Technologies:** HTML, CSS, JavaScript  
-**Description:** Creating a personal portfolio website showcasing skills, projects, and work experience. Features a responsive design, interactive elements, and smooth navigation.  
-**Link:** [GitHub Repository](https://github.com/shreyamorti28/my_portfolio.git)
+### AI Styling Agent (Deep Learning)
+**Technologies:** MERN Stack (MongoDB, Express.js, React, Node.js), ResNet50, TensorFlow/PyTorch  
+**Description:** Developing a web-based outfit recommendation system that uses deep learning techniques for personalized fashion suggestions. The project includes a robust backend and an interactive frontend to enhance user experience and reduce decision fatigue.  
+**Link:** [GitHub Repository](https://github.com/shreyamorti28/styling-agent.git)
 
 - 👯 I’m open to collaborating on any interesting projects
