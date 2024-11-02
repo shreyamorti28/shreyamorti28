@@ -8,7 +8,7 @@
 
 ## Currently Working on
 ### AI Styling Agent (Deep Learning)
-**Technologies:** MERN Stack (MongoDB, Express.js, React, Node.js), ResNet50, TensorFlow/PyTorch  
+**Technologies:** MERN Stack (MongoDB, Express.js, React, Node.js), ResNet50, PyTorch  
 **Description:** Developing a web-based outfit recommendation system that uses deep learning techniques for personalized fashion suggestions. The project includes a robust backend and an interactive frontend to enhance user experience and reduce decision fatigue.  
 **Link:** [GitHub Repository](https://github.com/shreyamorti28/styling-agent.git)
 
