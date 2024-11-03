@@ -28,6 +28,6 @@
 ### Stock Analysis Web Application
 **Technologies:** Python, Flask, NumPy, Pandas, Matplotlib, yfinance  
 **Description:** A stock analysis web application that allows users to fetch real-time stock data, analyze it, and visualize stock trends. The project includes features such as stock visualizations, comparisons, a risk calculator, and complete data analysis.  
-**Link:** [GitHub Repository](https://github.com/shreyamorti28/stock-analysis.git)
+**Link:** [GitHub Repository](https://github.com/shreyamorti28/Stock-Analysis/tree/main/final%20pp)
 
 - 👯 I’m open to collaborating on any interesting projects
