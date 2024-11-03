@@ -24,10 +24,9 @@
 **Description:** Creating a personal portfolio website showcasing skills, projects, and work experience. Features a responsive design, interactive elements, and smooth navigation.  
 **Link:** [GitHub Repository](https://github.com/shreyamorti28/my_portfolio.git)
 
-
 ### Stock Analysis Web Application
 **Technologies:** Python, Flask, NumPy, Pandas, Matplotlib, yfinance  
 **Description:** A stock analysis web application that allows users to fetch real-time stock data, analyze it, and visualize stock trends. The project includes features such as stock visualizations, comparisons, a risk calculator, and complete data analysis.  
-**Link:** [GitHub Repository](https://github.com/shreyamorti28/Stock-Analysis/tree/main/final%20pp)
+**Link:** [GitHub Repository](https://github.com/shreyamorti28/Stock-Analysis.git)
 
 - 👯 I’m open to collaborating on any interesting projects
