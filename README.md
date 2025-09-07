@@ -35,6 +35,13 @@ Data Structures & Algorithms | Object Oriented Programming (OOP) | Operating Sys
 
 ## 🚀 Completed Projects
 
+### 🌍 SolarMaps AI – Landing Page  
+**Tech Stack:** React, TypeScript, CSS Grid, Flexbox  
+**Description:** A pixel-perfect, fully responsive landing page for SolarMaps AI, matching the Figma design with interactive FAQ, pricing plans, testimonials, and modern responsive design.  
+[![GitHub](https://img.shields.io/badge/Code-View_on_GitHub-blue?logo=github)](https://github.com/your-username/solarmaps-ai-landing)  
+[![Website](https://img.shields.io/badge/Live-Demo-green?logo=vercel)](https://mysolarpanel.netlify.app/)  
+
+
 ### 🧠 AI Styling Agent (Deep Learning)  
 **Tech Stack:** MERN Stack (MongoDB, Express.js, React, Node.js), ResNet50, PyTorch  
 **Description:** Web-based outfit recommendation system using deep learning for personalized fashion suggestions with a robust backend and interactive frontend.  
