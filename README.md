@@ -38,7 +38,7 @@ Data Structures & Algorithms | Object Oriented Programming (OOP) | Operating Sys
 ### 🌍 SolarMaps AI – Landing Page  
 **Tech Stack:** React, TypeScript, CSS Grid, Flexbox  
 **Description:** A pixel-perfect, fully responsive landing page for SolarMaps AI, matching the Figma design with interactive FAQ, pricing plans, testimonials, and modern responsive design.  
-[![GitHub](https://img.shields.io/badge/Code-View_on_GitHub-blue?logo=github)](https://github.com/your-username/solarmaps-ai-landing)  
+[![GitHub](https://img.shields.io/badge/Code-View_on_GitHub-blue?logo=github)](https://github.com/shreyamorti28/solar-20website)  
 [![Website](https://img.shields.io/badge/Live-Demo-green?logo=vercel)](https://mysolarpanel.netlify.app/)  
 
 
