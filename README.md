@@ -1,5 +1,5 @@
 # 👋 Hi, I'm **Shreya Morti**  
-💻 Computer Science Student | 🌐 Full-Stack Developer | 🎯 Problem Solver  
+💻 Computer Science Student |  🎯 Problem Solver  
 
 ---
 
